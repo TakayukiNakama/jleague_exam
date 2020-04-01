@@ -1,5 +1,5 @@
 body {
-  background: #efdec1;
+  background: #ffee00;
   font-size: 14px;
   font-family: Verdana, sans-serif;
 }
@@ -101,3 +101,15 @@ body {
   display: block;
   text-decoration: none;
 }
+
+/* @media screen and (max-width: 768px){
+.container {
+  width: 400px;
+  margin: 8px auto;
+  background: #fff;
+  border-radius: 4px;
+  padding: 16px;
+  position: relative;  
+ }
+} */
+     
